@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="12" cy="12" r="10" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 2.81651C6.9281 2.81651 2.81651 6.9281 2.81651 12C2.81651 17.0719 6.9281 21.1835 12 21.1835C17.0719 21.1835 21.1835 17.0719 21.1835 12C21.1835 6.9281 17.0719 2.81651 12 2.81651ZM1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12Z" fill="currentColor"/>
+<mask id="mask0_8309_18673" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="20" height="20">
+<circle cx="12" cy="12" r="10" fill="white"/>
+</mask>
+<g mask="url(#mask0_8309_18673)">
+<mask id="path-4-inside-1_8309_18673" fill="white">
+<path d="M13.6211 12.3789L10.0856 8.84337L20.7782 -1.84924C21.1687 -2.23977 21.8019 -2.23977 22.1924 -1.84924L24.3137 0.272077C24.7042 0.662601 24.7042 1.29577 24.3137 1.68629L13.6211 12.3789Z"/>
+</mask>
+<path d="M13.6211 12.3789L10.0856 8.84337L20.7782 -1.84924C21.1687 -2.23977 21.8019 -2.23977 22.1924 -1.84924L24.3137 0.272077C24.7042 0.662601 24.7042 1.29577 24.3137 1.68629L13.6211 12.3789Z" stroke="currentColor" stroke-width="3.6" mask="url(#path-4-inside-1_8309_18673)"/>
+<path d="M8.62199 14.1423C8.44197 14.1838 8.28063 14.0225 8.32218 13.8425L9.29289 9.63604L12.8284 13.1716L8.62199 14.1423Z" fill="currentColor"/>
+<line x1="0.9" y1="-0.9" x2="19.1" y2="-0.9" transform="matrix(0.999987 0.00501737 0.00501762 0.999987 6 17)" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="19.6364" y1="0.363116" x2="21.7577" y2="2.48444" stroke="currentColor" stroke-width="1.8"/>
+</g>
+</svg>

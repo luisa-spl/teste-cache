@@ -1,0 +1,15 @@
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Type=pen, Size=xs">
+<g id="Group 1588">
+<g id="Rectangle 527">
+<mask id="path-1-inside-1_1_688" fill="white">
+<path d="M5 10.1924L2.87868 8.07106L9.59619 1.35355C9.79146 1.15829 10.108 1.15829 10.3033 1.35355L11.7175 2.76776C11.9128 2.96302 11.9128 3.27961 11.7175 3.47487L5 10.1924Z"/>
+</mask>
+<path d="M5 10.1924L2.87868 8.07106L9.59619 1.35355C9.79146 1.15829 10.108 1.15829 10.3033 1.35355L11.7175 2.76776C11.9128 2.96302 11.9128 3.27961 11.7175 3.47487L5 10.1924Z" stroke="currentColor" stroke-width="2.4" mask="url(#path-1-inside-1_1_688)"/>
+</g>
+<path id="Polygon 3" d="M2.26932 11.0846C2.10433 11.1082 1.96291 10.9667 1.98648 10.8017L2.29289 8.65685L4.41421 10.7782L2.26932 11.0846Z" fill="currentColor"/>
+<line id="Line 3" x1="0.6" y1="-0.6" x2="11.4" y2="-0.6" transform="matrix(0.999988 -0.00488377 -0.00488343 0.999988 1.00003 13.0001)" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+<line id="Line 3_2" x1="9.42426" y1="2.76812" x2="10.8385" y2="4.18233" stroke="black" stroke-width="1.2"/>
+</g>
+</g>
+</svg>

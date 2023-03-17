@@ -1,0 +1,51 @@
+@use 'typography.scss';
+@use 'colors.scss' as colors;
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Montserrat", "Verdana", sans-serif;
+	-webkit-font-smoothing: antialiased;
+}
+
+a,
+button {
+	cursor: pointer;
+}
+
+button,
+input {
+	font-family: "Montserrat", "Verdana", sans-serif;
+}
+
+:root {
+	--plyr-color-main: #E5007B !important;
+	--plyr-badge-background: #E5007B !important;
+	--plyr-tooltip-background: #E5007B !important;
+}
+
+:global(.plyr) {
+	width: 100%;
+	height: 100%;
+}
+
+:global(.plyr--full-ui.plyr--video .plyr__control--overlaid) {
+	padding: 33px;
+	opacity: 0.6;
+}
+
+:global(.plyr--full-ui.plyr--video .plyr__control--overlaid svg) {
+	width: 50px;
+	height: 50px;
+}
+
+:global(.plyr--video) {
+	@media (min-width: 1279px) {
+		border-bottom-left-radius: 12px;
+		border-bottom-right-radius: 12px;
+	}
+}
